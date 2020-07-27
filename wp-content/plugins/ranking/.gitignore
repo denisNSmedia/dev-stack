@@ -1,0 +1,6 @@
+### ignore node_modules folder
+node_modules/
+
+### ignore compilation
+# assets/dist/css/
+# assets/dist/js/
